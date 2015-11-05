@@ -11,7 +11,7 @@ namespace ProjectSchool.Models
         public int idAluno { get; set; }
 
         [Required]
-        [Display(Name = "Nome do Aluno:")]
+        [Display(Name = "Aluno:")]
         public string nomeAluno {get; set; }
     }
 }
