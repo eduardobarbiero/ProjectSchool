@@ -16,7 +16,6 @@ namespace ProjectSchool.Models
         public DbSet<AlunoModel> Alunos { get; set; }
         public DbSet<MateriaLecionadaModel> MateriasLecionadas { get; set; }
         public DbSet<MateriaModel> Materias { get; set; }
-        public DbSet<MateriaLecionadaModel> MateriasLecionadas { get; set; }        
 
     }
 }
