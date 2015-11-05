@@ -1,0 +1,2 @@
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\GitHub\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
