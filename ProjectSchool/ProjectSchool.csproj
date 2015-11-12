@@ -159,8 +159,13 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AlunoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MateriaController.cs" />
+    <Compile Include="Controllers\MateriasLecionadasController.cs" />
+    <Compile Include="Controllers\MatriculaController.cs" />
+    <Compile Include="Controllers\ProfessorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -235,6 +240,31 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Aluno\Create.cshtml" />
+    <Content Include="Views\Aluno\Delete.cshtml" />
+    <Content Include="Views\Aluno\Details.cshtml" />
+    <Content Include="Views\Aluno\Edit.cshtml" />
+    <Content Include="Views\Aluno\Index.cshtml" />
+    <Content Include="Views\Materia\Create.cshtml" />
+    <Content Include="Views\Materia\Delete.cshtml" />
+    <Content Include="Views\Materia\Details.cshtml" />
+    <Content Include="Views\Materia\Edit.cshtml" />
+    <Content Include="Views\Materia\Index.cshtml" />
+    <Content Include="Views\Professor\Create.cshtml" />
+    <Content Include="Views\Professor\Delete.cshtml" />
+    <Content Include="Views\Professor\Details.cshtml" />
+    <Content Include="Views\Professor\Edit.cshtml" />
+    <Content Include="Views\Professor\Index.cshtml" />
+    <Content Include="Views\MateriasLecionadas\Create.cshtml" />
+    <Content Include="Views\MateriasLecionadas\Delete.cshtml" />
+    <Content Include="Views\MateriasLecionadas\Details.cshtml" />
+    <Content Include="Views\MateriasLecionadas\Edit.cshtml" />
+    <Content Include="Views\MateriasLecionadas\Index.cshtml" />
+    <Content Include="Views\Matricula\Create.cshtml" />
+    <Content Include="Views\Matricula\Delete.cshtml" />
+    <Content Include="Views\Matricula\Details.cshtml" />
+    <Content Include="Views\Matricula\Edit.cshtml" />
+    <Content Include="Views\Matricula\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
