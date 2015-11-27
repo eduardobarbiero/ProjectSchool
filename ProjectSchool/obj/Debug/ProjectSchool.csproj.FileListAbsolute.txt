@@ -1,2 +1,108 @@
-E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
-C:\Users\EDUARDO\Documents\GitHub\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\ProjectSchool.dll.config
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\ProjectSchool.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\ProjectSchool.pdb
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Antlr3.Runtime.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\EntityFramework.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\EntityFramework.SqlServer.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Google.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Web.Infrastructure.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Newtonsoft.Json.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Owin.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Helpers.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Mvc.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Optimization.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Razor.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.Deployment.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.Razor.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\WebGrease.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Helpers.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Mvc.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Optimization.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.Razor.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.Deployment.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\System.Web.WebPages.Razor.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Antlr3.Runtime.pdb
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Newtonsoft.Json.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\EntityFramework.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\EntityFramework.SqlServer.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Google.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\obj\Debug\ProjectSchool.dll
+E:\Faculdade\4-TecnologiaProgramacao ll\WebAppTeste\ProjectSchool\obj\Debug\ProjectSchool.pdb
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\ProjectSchool.dll.config
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\ProjectSchool.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\ProjectSchool.pdb
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Antlr3.Runtime.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\EntityFramework.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Newtonsoft.Json.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Owin.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Helpers.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Mvc.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Optimization.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Razor.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\WebGrease.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Helpers.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Mvc.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Optimization.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.Razor.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Antlr3.Runtime.pdb
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Newtonsoft.Json.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\EntityFramework.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.dll
+C:\Users\eduardo.barbiero\Source\Repos\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.pdb

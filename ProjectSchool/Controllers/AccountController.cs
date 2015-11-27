@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using ProjectSchool.Models;
+using System.Net.Mail;
 
 namespace ProjectSchool.Controllers
 {
@@ -46,6 +47,7 @@ namespace ProjectSchool.Controllers
         {
             ViewBag.ReturnUrl = returnUrl;
             return View();
+            
         }
 
         private ApplicationSignInManager _signInManager;
@@ -70,6 +72,7 @@ namespace ProjectSchool.Controllers
             {
                 return View(model);
             }
+            
 
             // This doesn't count login failures towards account lockout
             // To enable password failures to trigger account lockout, change to shouldLockout: true
@@ -145,6 +148,24 @@ namespace ProjectSchool.Controllers
             return View();
         }
 
+        public void send_email(string email, string subject, string body)
+        {            
+            MailMessage mail = new MailMessage();
+            SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+
+            mail.From = new MailAddress("catolicascsistemas@gmail.com");
+            mail.To.Add(email);
+            mail.Subject = subject;
+            mail.IsBodyHtml = true;
+            mail.Body = body;            
+
+            SmtpServer.Port = 587;
+            SmtpServer.Credentials = new System.Net.NetworkCredential("catolicascsistemas@gmail.com", "catolicasistemas");
+            SmtpServer.EnableSsl = true;
+
+            SmtpServer.Send(mail);                            
+        }
+
         //
         // POST: /Account/Register
         [HttpPost]
@@ -160,13 +181,10 @@ namespace ProjectSchool.Controllers
                 {
                     await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
                     
-                    // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
-                    // Send an email with this link
-                    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
-                    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
-                    // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
-
-                    return RedirectToAction("Index", "Home");
+                    string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                    var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                    send_email(model.Email, "Você criou uma conta em seu sistema", "Entre sua conta clicando <a href=\"" + callbackUrl + "\">aqui</a>");                    
+                    return RedirectToAction("Index", "Home");                    
                 }
                 AddErrors(result);
             }
@@ -206,18 +224,16 @@ namespace ProjectSchool.Controllers
             if (ModelState.IsValid)
             {
                 var user = await UserManager.FindByNameAsync(model.Email);
-                if (user == null || !(await UserManager.IsEmailConfirmedAsync(user.Id)))
+                if (user == null)
                 {
                     // Don't reveal that the user does not exist or is not confirmed
                     return View("ForgotPasswordConfirmation");
                 }
-
-                // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
-                // Send an email with this link
-                // string code = await UserManager.GeneratePasswordResetTokenAsync(user.Id);
-                // var callbackUrl = Url.Action("ResetPassword", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);		
-                // await UserManager.SendEmailAsync(user.Id, "Reset Password", "Please reset your password by clicking <a href=\"" + callbackUrl + "\">here</a>");
-                // return RedirectToAction("ForgotPasswordConfirmation", "Account");
+                
+                 string code = await UserManager.GeneratePasswordResetTokenAsync(user.Id);
+                 var callbackUrl = Url.Action("ResetPassword", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                 send_email(model.Email, "Resetar senha", "Para resetar sua senha clique <a href=\"" + callbackUrl + "\">aqui</a>");                    
+                 return RedirectToAction("ForgotPasswordConfirmation", "Account");
             }
 
             // If we got this far, something failed, redisplay form
@@ -465,4 +481,5 @@ namespace ProjectSchool.Controllers
         }
         #endregion
     }
+
 }
